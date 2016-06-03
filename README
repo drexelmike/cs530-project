@@ -1,0 +1,4 @@
+To use this application simply load index.html in a browser. 
+It is only officially tested for webkit based browsers (specifically chrome).
+It should also be running from this address - http://hestia.nighsoft.net/drexel/cs530/project/
+It should easily run from any webserver that you host it on instead.
